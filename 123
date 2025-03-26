@@ -1,0 +1,7 @@
+#include<Stdio.h>
+
+void main()
+{
+printf("hello world");
+}
+retuern0;
